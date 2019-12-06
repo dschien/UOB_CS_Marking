@@ -1,0 +1,13 @@
+logs
+sendgrid.env
+data
+output
+private
+tmp
+config.yml
+email_account_allocations.xlsx
+groups.csv
+.ipynb_checkpoints
+.vscode
+.idea
+.env
